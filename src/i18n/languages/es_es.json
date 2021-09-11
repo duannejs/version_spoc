@@ -1,0 +1,28 @@
+{
+  "key_lang_description": "Español",
+  "key_lang": "es_es",
+  "key_speech": "es-ES",
+  "key_speech_rate": 1,
+
+  "general_oops": "Oops",
+  "loading": "Cargando",
+  "page_not_found": "Página no encontrada!",
+  "back": "Regresar",
+  "logout": "Salir",
+  
+  "login_title": "Iniciar sesión",
+  "user": "Usuario",
+  "password": "Contraseña",
+  "Log in": "Acesso",
+  "Keep_logged": "Mantenme conectado",
+
+  "search features": "Funcionalidad de búsqueda",
+  "Dashboard": "Panel",
+  "Components": "Componentes",
+  "Integration": "Integración",
+  "Alerts": "Alertas",
+  "Mail": "Correo",
+  "Settings": "Ajustes",
+
+  "cancel_license": "Cancelar licencia"
+}

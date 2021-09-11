@@ -1,0 +1,28 @@
+{
+  "key_lang_description": "English",
+  "key_lang": "en_us",
+  "key_speech": "en-US",
+  "key_speech_rate": 1,
+
+  "general_oops": "Oops",
+  "loading": "Loading",
+  "page_not_found": "Page not found!",
+  "back": "Back",
+  "logout": "Logout",
+  
+  "login_title": "Begin session",
+  "user": "User",
+  "password": "Password",
+  "Log in": "Log in",
+  "Keep_logged": "Keep me logged in",
+
+  "search features": "Search features",
+  "Dashboard": "Dashboard",
+  "Components": "Components",
+  "Integration": "Integration",
+  "Alerts": "Alerts",
+  "Mail": "Mail",
+  "Settings": "Settings",
+
+  "cancel_license": "Cancel licence"
+}

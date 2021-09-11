@@ -1,0 +1,27 @@
+{
+  "key_lang_description": "Português (Brasil)",
+  "key_lang": "pt_br",
+  "key_speech": "pt-BR",
+  "key_speech_rate": 1.1,
+
+  "general_oops": "Oops",
+  "loading": "Carregando",
+  "page_not_found": "Página não encontrada!",
+  "back": "Voltar",
+  "logout": "Sair",
+  
+  "login_title": "Entrar",
+  "user": "Usuário",
+  "password": "Senha",
+  "Log in": "Entrar",
+  "Keep_logged": "Mantenha-me conectado",
+
+  "search features": "Pesquisar funcionalidade",
+  "Dashboard": "Dashboard",
+  "Export": "Exportar",
+  "Document Names": "Nome de arquivos",
+  "Help": "Suporte",
+  "Settings": "Configurações",
+
+  "cancel_license": "Cancelar licença"
+}
